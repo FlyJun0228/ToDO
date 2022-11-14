@@ -42,7 +42,7 @@
     <string name="pref_title_frequency_value">%1$d 个番茄</string>
     <string name="pref_title_time_value">%1$d 分钟</string>
 
-    <string name="pref_title_pomodoro_element">番茄元素</string>
+    <string name="pref_title_pomodoro_element">高级设置</string>
     <string name="pref_title_pomodoro_mode">番茄模式</string>
     <string name="pref_title_pomodoro_mode_summary">在番茄模式下不能暂停定时器</string>
     <string name="pref_title_infinity_mode">自动模式</string>

@@ -11,10 +11,6 @@
             android:icon="@drawable/ic_insert_chart_black_24dp"
             android:title="record"/>
         <item
-            android:id="@+id/nav_info"
-            android:icon="@drawable/ic_info_outline_black_24dp"
-            android:title="forum"/>
-        <item
             android:id="@+id/nav_exit"
             android:icon="@drawable/ic_exit_to_app_black_24dp"
             android:title="exit"/>
