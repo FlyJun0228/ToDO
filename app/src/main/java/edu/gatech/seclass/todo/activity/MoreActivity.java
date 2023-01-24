@@ -22,9 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import edu.gatech.seclass.todo.R;
-import edu.gatech.seclass.todo.adapter.MyAdapter;
 import edu.gatech.seclass.todo.model.InfoModel;
-import edu.gatech.seclass.todo.model.PhoneModel;
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.OkHttpClient;
